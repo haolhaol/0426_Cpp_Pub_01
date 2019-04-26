@@ -10,7 +10,7 @@
 #include "log.h"
 #include "ioevent.h"
 
-using namespace std;
+//using namespace std;
 
 namespace tnet
 {
